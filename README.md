@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+
 # 👋 Hey, I’m **Shaik Shareef!**  
 🚀 **AI-Powered Developer | MERN Stack Enthusiast | Problem Solver**  
 🎯 *"Living on commit & push; dreaming in React & Node"*  
