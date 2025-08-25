@@ -116,7 +116,7 @@
 - 📧 College: 2203031241205@paruluniversity.ac.in
 - 💼 [LinkedIn](https://www.linkedin.com/in/shareef-shaik-6374442a9/)
 - 🌍 [Portfolio](https://skshareef41319s.github.io/portfolio/)
-- 📱 Phone: +91-8096920611, +91-9553041414
+- 📱 Phone: +91-8096920611
 - 🏠 Address: Parul University, Vadodara, Gujarat, India - 391760  
 - 🏠 Permanent: Repalle, Andhra Pradesh, India - 522265
 
