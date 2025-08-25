@@ -56,7 +56,7 @@
 ## 💻 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,sqlite,fastapi,python,git,github,postman,api,bootstrap,java,oop,c" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,sqlite,fastapi,python,git,github,postman,api,bootstrap,java,c" alt="Tech Stack Icons" />
 </div>
 
 **Frontend:** React.js | HTML | CSS | Javascript | Tailwind | Bootstrap  
