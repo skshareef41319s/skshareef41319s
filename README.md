@@ -132,10 +132,9 @@ English | Telugu | Hindi
 
 <div align="center">
   <a href="https://github.com/skshareef41319s?tab=repositories">
-    <img src="https://img.shields.io/github/stars/skshareef41319s?style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/skshareef41319s?label=GitHub%20Stars&style=for-the-badge&logo=github&color=gold" alt="GitHub Stars" />
   </a>
   <img src="https://raw.githubusercontent.com/skshareef41319s/skshareef41319s/main/assets/fire.gif" alt="Fire Support" width="40"/>
-  <img src="https://raw.githubusercontent.com/skshareef41319s/skshareef41319s/main/assets/3d-star.gif" alt="3D Star" width="50"/>
 </div>
 
 > 🚀 If you find my projects useful, **give them a star ⭐** and let's connect!
@@ -144,11 +143,7 @@ English | Telugu | Hindi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB86C&vCenter=true&width=600&height=50&lines=Let's+build+the+future+of+AI-powered+web+apps+together!+%F0%9F%9A%80%F0%9F%92%A1" alt="Typing Animation" />
-  <img src="https://raw.githubusercontent.com/skshareef41319s/skshareef41319s/main/assets/futuristic.gif" alt="Futuristic" width="120"/>
 </div>
-
----
-
 <!--
   TIPS:
   - Upload your GIFs to assets/ in your profile repo for best effect!
