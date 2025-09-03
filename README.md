@@ -32,9 +32,7 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
 
 ---
 
-## 👨‍💻 About Me
-
-> 🌌 *"Living on commit & push; dreaming in React & Node."*  
+## 👨‍💻 About Me 
 
 - 🎓 **B.Tech - CSE (AI), Parul University** | CGPA: **8.25 / 10** *(2022-2026)*  
 - 🔥 **Problem Solver | Tech Explorer | AI Innovator**  
@@ -65,12 +63,6 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
 
 ---
 
-## 💎 Key Expertise
-
-> ReactJS • MongoDB • Express • NodeJS • Responsiveness • Bootstrap • Tailwind • Python • SQL • APIs • Java • GitHub • OOPs • AI Tools  
-
----
-
 ## 🎓 Education
 
 - 🎓 **Parul University**, Vadodara — *B.Tech CSE (AI)* *(2022–2026)* — CGPA: **8.25/10**  
@@ -83,14 +75,6 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
 
 - **Frontend Web Developer, Prodigy Infotech** *(June 2024)*  
   - Delivered modern interactive web apps with smooth UI/UX.  
-
----
-
-## 🚀 Projects  
-
-- 🔹 [**Askify**](https://github.com/skshareef41319s/Askify) — AI PDF Q&A  
-- 🔹 [**TripEase**](https://github.com/skshareef41319s/TripEase) — Travel Booking  
-- 🔹 [**Attendance Calculator**](https://github.com/skshareef41319s/ATTENDANCE-CALCULATOR)  
 
 ---
 
@@ -114,17 +98,6 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
 - 📧 **Email:** skshareef41319@gmail.com  
 - 📧 **College:** 2203031241205@paruluniversity.ac.in  
 - 📱 **Phone:** +91-8096920611  
-
----
-
-<div align="center">
-
-  <a href="https://github.com/skshareef41319s?tab=repositories">
-    <img src="https://img.shields.io/github/stars/skshareef41319s?label=GitHub%20Stars&style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/>
-  </a>  
-  <img src="https://raw.githubusercontent.com/skshareef41319s/skshareef41319s/main/assets/fire.gif" width="40" alt="Fire"/>
-
-</div>
 
 ---
 
