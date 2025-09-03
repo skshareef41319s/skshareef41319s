@@ -7,7 +7,7 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
 
   <!-- Typing Animation Header -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=85&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;" 
     alt="Typing SVG"
 />
 
