@@ -8,15 +8,9 @@
 
  <!-- 3D Animated Greeting -->
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=36D1C4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;Full+Stack+Web+%2B+AI+%2B+Problem+Solver+🚀💡;Living+on+commit+%26+push,+dreaming+in+React+%26+Node" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=36D1C4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;Living+on+commit+%26+push,+dreaming+in+React+%26+Node" 
   alt="Typing SVG"
 />
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 
