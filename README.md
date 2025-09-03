@@ -7,12 +7,9 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
 
   <!-- Typing Animation Header -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=850&height=150&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;Living+on+commit+%26+push,+dreaming+in+React+%26+Node" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;Full+Stack+Web+%2B+AI+%2B+Problem+Solver+%F0%9F%9A%80" 
     alt="Typing SVG"
 />
-
-</div>
-
 
   <!-- Animated GIF Row -->
   <br/>
@@ -22,8 +19,6 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
   <img src="https://raw.githubusercontent.com/skshareef41319s/skshareef41319s/main/assets/3d-cube.gif" width="90" alt="Cube"/>
 
 </div>
-
-
 
 ---
 
