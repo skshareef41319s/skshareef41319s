@@ -7,7 +7,7 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
 
   <!-- Typing Animation Header -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=1100&height=130&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;Living+on+commit+%26+push,+dreaming+in+React+%26+Node" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;" 
     alt="Typing SVG"
 />
 
@@ -33,6 +33,7 @@ Built with ✨ Elegance + ⚡ Power + 🚀 Futuristic Vibes
 ---
 
 ## 👨‍💻 About Me 
+> 🌌 *"Living on commit & push; dreaming in React & Node."*
 
 - 🎓 **B.Tech - CSE (AI), Parul University** | CGPA: **8.25 / 10** *(2022-2026)*  
 - 🔥 **Problem Solver | Tech Explorer | AI Innovator**  
