@@ -12,6 +12,13 @@
   alt="Typing SVG"
 />
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
   <!-- 3D Animated Rocket/Coding/AI GIFs -->
