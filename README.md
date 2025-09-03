@@ -6,9 +6,13 @@
 
 <div align="center">
 
-  <!-- 3D Animated Greeting -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=36D1C4&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+Shaik+Shareef!; MERN+Stack+Developer+%7C+AI-Powered+Enthusiast;Full+Stack+Web+%2B+AI+%2B+Problem+Solver+%F0%9F%9A%80%F0%9F%92%A1;Living+on+commit+%26+push%2C+dreaming+in+React+%26+Node" alt="Typing SVG" />
-  <br/>
+ <!-- 3D Animated Greeting -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=36D1C4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey,+I'm+Shaik+Shareef!;MERN+Stack+Developer+%7C+AI+Enthusiast;Full+Stack+Web+%2B+AI+%2B+Problem+Solver+🚀💡;Living+on+commit+%26+push,+dreaming+in+React+%26+Node" 
+  alt="Typing SVG"
+/>
+<br/>
+
 
   <!-- 3D Animated Rocket/Coding/AI GIFs -->
   <img src="https://raw.githubusercontent.com/skshareef41319s/skshareef41319s/main/assets/rocket.gif" alt="Rocket Animation" width="90"/>
